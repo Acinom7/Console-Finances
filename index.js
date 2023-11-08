@@ -89,12 +89,8 @@ var finances = [
   ["Feb-2017", 671099],
 ];
 
-function declareText() {
-  console.log("Financial Analysis");
-  console.log("-------------------");
-}
-
-declareText();
+console.log("Financial Analysis");
+console.log("-------------------");
 
 // The total number of months included in the dataset.
 
