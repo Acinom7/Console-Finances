@@ -6,7 +6,6 @@ The purpose of this project is to calculate various financial metrics, including
 
 Link to Website: https://acinom7.github.io/Console-Finances/
 
-![Alt text](./Screenshot/Screenshot%202023-11-07%20105627.png)
 ![Alt text](./Screenshot/Screenshot%202023-11-07%20105723.png)
 ![Alt text](./Screenshot/Screenshot%202023-11-07%20105804.png)
 
